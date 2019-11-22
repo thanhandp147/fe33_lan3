@@ -3,7 +3,7 @@ var nguoiDungService = new NguoiDungService();
 getListUser();
 
 function donot(){
-  alert('alo3')
+  alert('alolethanhan4')
 }
 
 
