@@ -3,7 +3,7 @@ var nguoiDungService = new NguoiDungService();
 getListUser();
 
 function donot(){
-  alert('alo')
+  alert('alolethanhan4')
 }
 
 getEle("btnThemNguoiDung").addEventListener("click", function () {
