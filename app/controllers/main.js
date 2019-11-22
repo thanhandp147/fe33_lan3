@@ -6,6 +6,7 @@ function donot(){
   alert('alolethanhan4')
 }
 
+
 getEle("btnThemNguoiDung").addEventListener("click", function () {
   document.getElementsByClassName("modal-title")[0].innerHTML =
     "Thêm người dùng";
