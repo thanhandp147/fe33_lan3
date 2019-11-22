@@ -3,8 +3,9 @@ var nguoiDungService = new NguoiDungService();
 getListUser();
 
 function donot(){
-  alert('alo')
+  alert('alo3')
 }
+
 
 getEle("btnThemNguoiDung").addEventListener("click", function () {
   document.getElementsByClassName("modal-title")[0].innerHTML =
